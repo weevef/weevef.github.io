@@ -11,10 +11,10 @@ My main job was to lead sessions teaching basics of python in 2018 and in 2017 I
 The main challenge was that I was not provided a detailed guide of what to teach and I had to come up with material and propose it to my main supervisor. This was hard to do but it made me think much harder about what to cover and why it was going to be helpful for the students.
 
 
-<img src="images/summercamp1.JPG"
+<img src="/images/summercamp1.JPG"
      alt="Presidential Palace Visit"
      style="float: left; margin-right: 10px;" />
-
+<!--
 <img src="/images/summercamp2.JPG"
      alt="Competition Day"
-          style="float: left; margin-right: 10px;" />
+          style="float: left; margin-right: 10px;" /> -->
