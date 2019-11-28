@@ -38,9 +38,7 @@ Skills
   * Mapping data
   * Web scraping
 * Spanish (native speaker) and English (native speaker)
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+
 * LaTeX Typesetting
 
 

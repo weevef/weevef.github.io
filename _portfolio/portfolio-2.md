@@ -1,7 +1,7 @@
 ---
 title: "Chatbot Natural Language Processing Project"
 excerpt: "Process data from conversations between students and a chatbot
-<br/><img src='/images/dayofweek2.JPG'>"
+<br/><img src='/images/dayofweek2.jpg'>"
 collection: portfolio
 ---
 
@@ -12,11 +12,11 @@ I mainly did two specific things during the summer. The first was that had to fi
 The main challenge I faced was that the lead programmer for the bot did not plan the output data so the data produced was a mess. I spent a long time working on a script to process the output to make the data more useful for analysis by the rest of the team.  
 
 
-<img src="images/timeofday.jpg"
+<img src="/images/timeofday.jpg"
  alt="Time of the Day"
  style="float: left; margin-right: 10px;" />
 
 
-<img src="images/dayofweek2.JPG"
+<img src="/images/dayofweek2.JPG"
   alt="Day of the Week"
   style="float: left; margin-right: 10px;" />
