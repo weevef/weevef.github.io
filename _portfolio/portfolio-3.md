@@ -8,3 +8,8 @@ In the summer of 2017 and 2018 I traveled to Santo Domingo in the Dominican Repu
 My main job was to lead sessions teaching basics of python in 2018 and in 2017 I taught them modules of scratch and basic programing for NXT robotics. We did several activities that I based on the work I had done in the past as part of a NXT robotics team in Connecticut since I was in 5th grade.  
 
 The main challenge was that I was not provided a detailed guide of what to teach and I had to come up with material and propose it to my main supervisor. This was hard to do but it made me think much harder about what to cover and why it was going to be helpful for the students.
+
+
+<img src="images/summercamp1.jpg"
+     alt="Presidential Palace Visit"
+     style="float: left; margin-right: 10px;" />
