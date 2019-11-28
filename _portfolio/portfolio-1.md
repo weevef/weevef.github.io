@@ -1,6 +1,6 @@
 ---
 title: "DEA Controlled Substances Data Project (ARCOS)"
-excerpt: "Data that was recently made public by the DEA on the consumption of controlled substances is imported, cleaned and organized. Some visualization of the data is done. <br/><img src='/images/500x300.png'>"
+excerpt: "Data that was recently made public by the DEA on the consumption of controlled substances is imported, cleaned and organized. Some visualization of the data is done. <br/><img src='/images/drugMap.jpg'>"
 collection: portfolio
 ---
 
@@ -14,6 +14,6 @@ I made a few data visualizations for some medications I thought were cool.
 
 # Figure 1
 
-<img src="images/drugMap.jpg"
+<img src="/images/drugMap.jpg"
      alt="Bup Map"
      style="float: left; margin-right: 10px;" />
