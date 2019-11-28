@@ -1,7 +1,7 @@
 ---
 title: "Chatbot Natural Language Processing Project"
 excerpt: "Process data from conversations between students and a chatbot
-<br/><img src='/images/timeofday.jpg'>"
+<br/><img src='/images/dayofweek2.JPG'>"
 collection: portfolio
 ---
 
@@ -13,10 +13,10 @@ The main challenge I faced was that the lead programmer for the bot did not plan
 
 
 <img src="images/timeofday.jpg"
-     alt="Time of the Day"
-     style="float: left; margin-right: 10px;" />
+ alt="Time of the Day"
+ style="float: left; margin-right: 10px;" />
 
 
-     <img src="images/dayofweeek.jpg"
-          alt="Day of the Week"
-          style="float: left; margin-right: 10px;" />
+<img src="images/dayofweek2.JPG"
+  alt="Day of the Week"
+  style="float: left; margin-right: 10px;" />
