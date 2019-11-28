@@ -14,6 +14,6 @@ I made a few data visualizations for some medications I thought were cool.
 
 # Figure 1
 
-<img src="/images/drugMap.jpg"
+<img src="images/drugMap.jpg"
      alt="Bup Map"
      style="float: left; margin-right: 10px;" />
