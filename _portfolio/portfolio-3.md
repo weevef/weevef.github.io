@@ -13,3 +13,6 @@ The main challenge was that I was not provided a detailed guide of what to teach
 <img src="/images/summercamp1.jpg"
      alt="Presidential Palace Visit"
      style="float: left; margin-right: 10px;" />
+
+<img src="/images/summercamp2.jpg"
+          style="float: left; margin-right: 10px;" />
