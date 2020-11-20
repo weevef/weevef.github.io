@@ -1,0 +1,39 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = 
+
+### Title
+tour.name = Wilbur Cross High School Tour
+
+## Skin
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Media
+
+### Title
+panorama_D290866E_D802_4AA9_41E8_7859735FDB28.label = Math
+panorama_D2935E63_D801_BADF_41C1_26370CEC9E3B.label = Gym
+panorama_D2937074_D801_C6B9_41D5_EB5A5EA8258C.label = 10-courtyard-3
+panorama_D2939522_D801_CE59_41E2_507675A29294.label = 4-1st-fl-hw-2
+panorama_D293A369_D801_CAAB_41E6_469005EA60C6.label = Cafeteria
+panorama_D293ADC8_D801_B9E9_41CD_5548083A2449.label = 3-1st-fl-hw-1
+panorama_D293B8CA_D801_C7E9_41E6_BC15F4BE43F8.label = Courtyard
+panorama_D293BA47_D801_FAE7_41E8_C9EE28EA4B5E.label = 7-cafeteria-2
+panorama_D293CC9B_D801_DE6F_41E0_9DF316B39C8B.label = 5-1st-fl-hw-3
+panorama_D2948173_D806_46BF_41B2_1A0AA9262653.label = 17-1st-fl-hw-7
+panorama_D29483BA_D806_49A9_41E6_F5F714133F33.label = Pool
+panorama_D294A60D_D806_4A6B_41EA_E39D6791F49A.label = 13-1st-fl-hw-5
+panorama_D294ABFF_D806_D9A6_41E3_514F0D718D4F.label = 23-3rd-fl-hw-1
+panorama_D294D681_D806_4A5A_41E4_83187037E0C4.label = Auditorium Stage
+panorama_D294D8AB_D806_47AF_41E1_11332A352DDE.label = Auditorium
+panorama_D294EAA9_D806_7BAB_41DF_D5035A90D57C.label = 16-1st-fl-hw-6
+panorama_D294FDA6_D806_BE59_41CE_A0F57D609F83.label = 21-2nd-fl-hw-1
+panorama_D29554A8_D806_CFA9_41EA_CA36D9C7FBD3.label = Digital Media
+panorama_D2956362_D806_CAD9_418C_3C9063CD8497.label = English
+panorama_D3875FCF_D802_79E6_41DC_A0FAAB788BF7.label = Main Enterance
