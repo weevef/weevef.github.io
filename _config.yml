@@ -145,6 +145,7 @@ exclude:
   - node_modules
   - package.json
   - tmp
+  - VirtualTourTest
   - vendor
 keep_files:
   - .git
